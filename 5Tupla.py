@@ -1,0 +1,1 @@
+#Quinto Exercício: Tupla de médias
